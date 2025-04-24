@@ -1,0 +1,17 @@
+gradio
+langchain
+langchain-community
+langchain-groq
+huggingface-hub
+sentence-transformers
+transformers
+torchgradio
+langchain
+langchain-community
+langchain-groq
+huggingface-hub
+sentence-transformers
+transformers
+torch
+python-dotenv
+
