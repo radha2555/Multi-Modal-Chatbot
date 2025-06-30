@@ -126,3 +126,7 @@ This will start a **Gradio interface** locally. The chatbot will be accessible i
 - [HuggingFace](https://huggingface.co/)
 
 ---
+example output:
+![image](https://github.com/user-attachments/assets/4bed7556-78e6-4df2-a756-8f4a15c36e65)
+
+
